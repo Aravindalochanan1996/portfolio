@@ -1,21 +1,20 @@
 {
-    "name": "Your Name",
-    "profilePhoto": "your-photo.jpg",
-    "about": "I have a total experience of 6 years. I started my career at Urjanet Energy Solutions as a Data Analyst for 1 year. Then I switched my career to Frontend Development in my second year at FIS Global Solutions. After gaining 3 years of experience, I moved to Tata Consultancy Services where I have been working for more than 2 years now.",
-    "email": "your.email@example.com",
-    "projects": [
-      {
-        "title": "Portfolio Website",
-        "description": "A responsive personal portfolio website to showcase my work and experience."
-      },
-      {
-        "title": "E-commerce Frontend",
-        "description": "Built the frontend of an e-commerce website using React and Redux."
-      },
-      {
-        "title": "Dashboard Application",
-        "description": "Created a real-time data visualization dashboard for energy consumption analytics."
-      }
-    ]
-  }
-  
+  "name": "Your Name",
+  "profilePhoto": "your-photo.jpg",
+  "about": "I have a total experience of 6 years. I started my career at Urjanet Energy Solutions as a Data Analyst for 1 year. Then I switched my career to Frontend Development in my second year at FIS Global Solutions. After gaining 3 years of experience, I moved to Tata Consultancy Services where I have been working for more than 2 years now.",
+  "email": "your.email@example.com",
+  "projects": [
+    {
+      "title": "Portfolio Website",
+      "description": "A responsive personal portfolio website to showcase my work and experience."
+    },
+    {
+      "title": "E-commerce Frontend",
+      "description": "Built the frontend of an e-commerce website using React and Redux."
+    },
+    {
+      "title": "Dashboard Application",
+      "description": "Created a real-time data visualization dashboard for energy consumption analytics."
+    }
+  ]
+}
