@@ -121,3 +121,21 @@ footer {
     flex-direction: column;
   }
 }
+
+.social-links {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.social-link {
+  text-decoration: none;
+  color: #333;
+  font-size: 24px;
+  transition: color 0.3s ease;
+}
+
+.social-link:hover {
+  color: #0077b5; /* Change color on hover (e.g., LinkedIn blue) */
+}

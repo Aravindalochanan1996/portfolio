@@ -1,6 +1,6 @@
 {
   "name": "Your Name",
-  "profilePhoto": "your-photo.jpg",
+  "profilePhoto": "",
   "about": "I have a total experience of 6 years. I started my career at Urjanet Energy Solutions as a Data Analyst for 1 year. Then I switched my career to Frontend Development in my second year at FIS Global Solutions. After gaining 3 years of experience, I moved to Tata Consultancy Services where I have been working for more than 2 years now.",
   "email": "lochanan1996@gmail.com",
   "projects": [
@@ -15,6 +15,17 @@
     {
       "title": "Dashboard Application",
       "description": "Created a real-time data visualization dashboard for energy consumption analytics."
+    }
+  ],
+  "links": [
+    {
+      "linkedinLink": "https://www.linkedin.com/in/your-profile"
+    },
+    {
+      "facebookLink": "https://www.facebook.com/your-profile"
+    },
+    {
+      "githubLink": "https://github.com/your-profile"
     }
   ]
 }
